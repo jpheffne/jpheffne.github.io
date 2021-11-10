@@ -1,0 +1,16 @@
+---
+title: "Joseph Heffner"
+site: distill::distill_website
+image: "joey_heffner.png"
+links:
+  - label: CV
+    url: "josephheffnercv_2021.pdf"
+  - label: Publications
+    url: "publications.html"
+  - label: Email
+    url: "mailto:joseph_heffner@brown.edu"
+output:
+  postcards::trestles
+---
+ 
+Joseph Heffner's current research investigates human social cognition and decision-making, focusing particularly on how people respond to fairness violations. He utilizes behavioral economics and social psychology approaches to explore questions like: In what contexts do people value punishment over non-punitive alternatives? How do people learn the value of prosocial actions in ambiguous and noisy environments? What aspects of the environment influence decisions to compete or cooperate?
