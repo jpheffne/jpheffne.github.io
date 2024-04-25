@@ -4,13 +4,13 @@ site: distill::distill_website
 image: "joey_heffner.jpg"
 links:
   - label: CV
-    url: "josephheffnercv_2021.pdf"
+    url: "joseph_heffner_cv_2024.pdf"
   - label: Publications
     url: "publications.html"
   - label: Email
-    url: "mailto:joseph_heffner@brown.edu"
+    url: "mailto:joseph.heffner@yale.edu"
 output:
   postcards::trestles
 ---
- 
-Joseph Heffner's current research investigates human social cognition and decision-making, focusing particularly on how people respond to fairness violations. He utilizes behavioral economics and social psychology approaches to explore questions like: In what contexts do people value punishment over non-punitive alternatives? How do people learn the value of prosocial actions in ambiguous and noisy environments? What aspects of the environment influence decisions to compete or cooperate?
+
+Joey is a postdoctoral associate at Yale in the Rutledge Lab. He received his PhD from Brown University under the mentorship of Oriel FeldmanHall, where he studied how violations of emotion expectations predict social decisions such as punishing norm transgressors. His current research combines natural language processing, computational modeling, longitudinal experience sampling, and neuroimaging to explore questions like: What is the functional role of emotions in learning and choice? How are emotions organized and related to low-level constructs like mood and core affect? How does language express information about our mental health? How do different symptoms of depression including apathy, avolition, and low mood relate to everyday decisions? Joey is interested in identifying computational assays and brain networks that map onto different depression dimensions.

@@ -7,12 +7,21 @@ output:
     toc_float: true
 ---
 
-[**Full CV (PDF)**](https://jpheffne.github.io/josephheffnercv_2021.pdf) \| [**Google Scholar**](https://scholar.google.com/citations?user=Bu8DhLMAAAAJ)
+[**Full CV (PDF)**](https://jpheffne.github.io/joseph_heffner_cv_2024.pdf) \| [**Google Scholar**](https://scholar.google.com/citations?user=vtymOtoAAAAJ&hl=en)
 
 # Publications
 
-1. **Heffner, J.**, & FeldmanHall, O. (in press). Reverse engineering emotions in competitive social interactions. *Nature Communications.*\
-    [**Online**]() **\| [PDF](https://jpheffne.github.io/papers/EmotionMap_NC_2021.pdf) \| [Data & Code]()**
+1. Gunsilius, C., **Heffner, J.**, Bruinsma, S., Corinha, M., Cortinez, M., Dalton, H., Duong, E., Lu, J., Omar, A., Long, L., Owen, W., Nazario Roarr, B., Tang, K., Petzschner, F. (2024). SOMAScience: A novel platform for multidimensional, longitudinal pain assessment, *JMIR mHealth and uHealth*. *shared first authorship*\
+    [**Online**](https://mhealth.jmir.org/2024/1/e47177/) **\| [PDF](https://jpheffne.github.io/papers/SOMAScience_JMIR_2024.pdf)
+
+2. Vives, M., **Heffner, J.,** & FeldmanHall, O. (2023). Conceptual representations of uncertainty predict risky decision making. *Cognitive, Affective, and Behavioral Neuroscience.*\
+    [**Online**](https://link.springer.com/article/10.3758/s13415-023-01090-8) **\| [PDF](https://jpheffne.github.io/papers/UncertaintyRep_CABN_2023.pdf) \| [Data & Code](https://github.com/jpheffne/uncertainty_rep)**
+    
+3. FeldmanHall, O., & **Heffner, J.** (2022). A generalizable framework for assessing the role of emotion during choice. *American Psychologist.*\
+    [**Online**](https://psycnet.apa.org/record/2023-32731-010) **\| [PDF](https://jpheffne.github.io/papers/EmoFramework_AP_2022.pdf) **
+
+4. **Heffner, J.**, & FeldmanHall, O. (2022). A probabilistic map of emotional experiences during competitive social interactions. *Nature Communications.*\
+    [**Online**](https://www.nature.com/articles/s41467-022-29372-8) **\| [PDF](https://jpheffne.github.io/papers/EmotionMap_NC_2021.pdf) \| [Data & Code](https://github.com/jpheffne/NC_emotion_classify)**
 
 2.  **Heffner, J.**, Son, J., & FeldmanHall, O. (2021). Emotion prediction errors guide socially adaptive behaviour. *Nature Human Behaviour.*\
     [**Online**](https://www.nature.com/articles/s41562-021-01213-6) **\| [PDF](https://jpheffne.github.io/papers/EPE_NHB_2021.pdf) \| [Data & Code](https://github.com/jpheffne/epe)**
@@ -50,27 +59,22 @@ htmltools::p(
 
 # Experience
 
--   **Ph.D.** (2016 - expected 2022)
+-   **Post-Doctoral Associate** (2022 - Present)
+
+    -   Yale University, Department of Psychology
+    -   Supervisor: Robb Rutledge
+
+-   **Ph.D.** (2016 - 2022)
 
     -   Brown University, Dept. of Cognitive, Linguistic, & Psychological Sciences (CLPS)
     -   Supervisor: Oriel FeldmanHall
 
--   **Project Manager** (2013-2016)
+-   **Project Manager** (2013 - 2016)
 
     -   Duke University, Kenan Institute for Ethics
     -   Supervisor: Walter Sinnott-Armstrong
 
--   **B.S. & B.A.** (2009-2013)
+-   **B.S. & B.A.** (2009 - 2013)
 
     -   University of Chapel Hill at North Carolina
     -   Supervisor: Keith Payne
-
-# Grants & Fellowships
-
--   Graduate Award in Brain Science at Brown University (2020-2021)
-
--   Carney Institute Brain Science Reproducible Paper Prize at Brown University (2020)
-
--   Travel Award SPSP Annual Convention (2018)
-
--   Duke Institute for Brain Science (DIBS) Incubator Award (2014-2016)
